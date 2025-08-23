@@ -1,0 +1,13 @@
+Location,Service,Food,Price,Music,Target
+Downtown,Fast,Italian,Cheap,Loud,No
+Suburb,Slow,Chinese,Expensive,Quiet,Yes
+Downtown,Fast,Italian,Cheap,Quiet,No
+Downtown,Slow,French,Expensive,Quiet,Yes
+Suburb,Fast,Chinese,Cheap,Loud,No
+Downtown,Slow,Italian,Expensive,Quiet,Yes
+Suburb,Slow,French,Expensive,Quiet,Yes
+Downtown,Fast,Chinese,Cheap,Loud,No
+Suburb,Fast,French,Cheap,Quiet,No
+Downtown,Slow,Chinese,Expensive,Loud,No
+Suburb,Slow,Italian,Expensive,Quiet,Yes
+Downtown,Fast,French,Expensive,Quiet,Yes

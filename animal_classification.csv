@@ -1,0 +1,13 @@
+Size,Color,Habitat,Diet,Sound,Mammal
+Large,Brown,Forest,Carnivore,Roar,Yes
+Small,Gray,Urban,Omnivore,Squeak,Yes
+Large,Gray,Savanna,Herbivore,Trumpet,Yes
+Small,Green,Forest,Insectivore,Chirp,No
+Medium,Black,Forest,Omnivore,Howl,Yes
+Small,Brown,Forest,Omnivore,Chirp,Yes
+Large,White,Arctic,Carnivore,Roar,Yes
+Small,Yellow,Forest,Insectivore,Sing,No
+Medium,Brown,Forest,Herbivore,Grunt,Yes
+Small,Red,Forest,Omnivore,Chatter,Yes
+Large,Black,Savanna,Herbivore,Moo,Yes
+Small,Blue,Forest,Insectivore,Tweet,No
